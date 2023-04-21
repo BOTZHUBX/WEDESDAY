@@ -41,7 +41,7 @@ async def start(client, message):
             InlineKeyboardButton("× ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ×", url=f"http://t.me/{temp.U_NAME}?startgroup=true")
             ],[
             InlineKeyboardButton("ɪɴʟɪɴᴇ ꜱᴇᴀʀᴄʜ", switch_inline_query_current_chat=''), 
-            InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇs", url="https://t.me/mkn_bots_updates")
+            InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇs", url="https://t.me/team_netflix")
             ],[      
             InlineKeyboardButton("ʜᴇʟᴘ", callback_data="help"),
             InlineKeyboardButton("ᴀʙᴏᴜᴛ", callback_data="about")
@@ -91,7 +91,7 @@ async def start(client, message):
              InlineKeyboardButton("× ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ×", url=f"http://t.me/{temp.U_NAME}?startgroup=true")
             ],[
             InlineKeyboardButton("ɪɴʟɪɴᴇ ꜱᴇᴀʀᴄʜ", switch_inline_query_current_chat=''), 
-            InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇs", url="https://t.me/mkn_bots_updates")
+            InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇs", url="https://t.me/team_netflix")
             ],[      
             InlineKeyboardButton("ʜᴇʟᴘ", callback_data="help"),
             InlineKeyboardButton("ᴀʙᴏᴜᴛ", callback_data="about")
