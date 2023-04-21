@@ -1,14 +1,14 @@
 class script(object):   
     HELP_TXT = """ʜᴇʏ {}\nʜᴇʀᴇ ɪs ᴛʜᴇ ʜᴇʟᴘ ғᴏʀ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs."""
 
-       ABOUT_TXT = """<b>× ᴍʏ ɴᴀᴍᴇ :  {}
-× ᴍʏ ᴄʀᴇᴀᴛᴏʀ: <a href='https://t.me/xenxd'>ᴍɪᴋєʏ ꜱᴀɴσ</a>
-× ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a>
-× ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 𝟹</a>
-× ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴀɴɢᴏ ᴅʙ</a>
-× ʙᴏᴛ sᴇʀᴠᴇʀ : <a href='https://app.koyeb.com/'>ᴋᴏʏᴇʙ</a>
-× ʀᴇqᴜᴇꜱᴛ ɢʀᴏᴜᴘ - <a href='https://t.me/+FA9pySV5hUxkZThl'>ᴍᴏᴠɪᴇ ꜱᴇᴀʀᴄʜ ʜᴜʙ</a></b>
-× ᴘᴏᴡᴇʀᴇᴅ ʙʏ - <a href='https://t.me/team_netflix'>ᴛᴇᴀᴍ ɴᴇᴛғʟɪx | ᴏʀɪɢɪɴᴀʟꜱ</a></b>"""
+       ABOUT_TXT = """<b>✯ ᴍʏ ɴᴀᴍᴇ: {}
+× ᴍʏ ᴄʀᴇᴀᴛᴏʀ: <a href=https://t.me/zeeroworld>ᴍɪᴋᴇʏ sᴀᴍᴀ</a>
+× ʟɪʙʀᴀʀʏ: ᴘʏʀᴏɢʀᴀᴍ
+× ʟᴀɴɢᴜᴀɢᴇ:  ᴘʏᴛʜᴏɴ 𝟹
+× ᴅᴀᴛᴀ ʙᴀsᴇ: ᴍᴀɴɢᴏ ᴅʙ
+× ʙᴏᴛ sᴇʀᴠᴇʀ: ʜᴇʀᴏᴋᴜ
+× ʙᴜɪʟᴅ sᴛᴀᴛᴜs: v2.0.1 [ ʙᴇᴛᴀ ]</b>
+× ᴘᴏᴡᴇʀᴇᴅ ʙʏ: <a href=https://t.me/psycho_association>ᴘsʏᴄʜᴏ ɴᴇᴛᴡᴏʀᴋ</a></b>"""
 
     SOURCE_TXT = """<b>⍟───[ɴᴏᴛᴇ]───⍟</b>
 
