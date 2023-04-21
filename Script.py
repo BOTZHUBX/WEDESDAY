@@ -1,7 +1,7 @@
 class script(object):   
     HELP_TXT = """ʜᴇʏ {}\nʜᴇʀᴇ ɪs ᴛʜᴇ ʜᴇʟᴘ ғᴏʀ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs."""
 
-       ABOUT_TXT = """<b>× ᴍʏ ɴᴀᴍᴇ : wednesday
+       ABOUT_TXT = """<b>× ᴍʏ ɴᴀᴍᴇ :  {}
 × ᴍʏ ᴄʀᴇᴀᴛᴏʀ: <a href='https://t.me/xenxd'>ᴍɪᴋєʏ ꜱᴀɴσ</a>
 × ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a>
 × ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 𝟹</a>
